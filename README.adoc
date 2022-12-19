@@ -1,0 +1,1 @@
+= Spring Cloud Stream Jdbc Sink Rabbit Binder Application

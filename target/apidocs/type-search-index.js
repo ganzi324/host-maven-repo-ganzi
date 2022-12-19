@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.springframework.cloud.stream.app.jdbc.sink.rabbit","l":"JdbcSinkRabbitApplication"}];updateSearchResults();
